@@ -1,0 +1,5 @@
+First_name = "Aneika"
+Last_name = "Whyte"
+
+Print ("First Name:" First_name)
+Print ("First Name: "last_name) 
